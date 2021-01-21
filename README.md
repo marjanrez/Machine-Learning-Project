@@ -1,5 +1,11 @@
 # Machine-Learning-Project
 
+One of the most important responsibilities that a bank or financial institution has is to protect the integrity of the institution by working hard to protect the financial assets that it holds. Bank fraud can be defined as an unethical and/or criminal act by an individual or organization to illegally attempt to possess or receive money from a bank or financial institution.
+It is anticipated that card frauds would amount to around $30 billion worldwide by 2020. So, how banks can improve security by detecting and obstructing frauds?
+Machine learning is perfect for detecting frauds! Its algorithms learn to tell fraudulent transactions from legitimate operations.
+In this project, we apply multiple ML techniques to the problem using card transaction data to identify fraudulent transactions (i.e. Fraud Detection)
+We show that our proposed approaches are able to detect fraud transactions with high accuracy and reasonably low number of false positives.
+
 Banking Fraud has been an ever-growing issue with huge consequences to banks and customers, in terms of financial losses, trust and credibility.
 An effective fraud detection system should be able to detect fraudulent transactions with high accuracy and efficiency.
 A major challenge in applying ML to fraud detection is presence of highly imbalanced data sets. In many available datasets, majority of transactions are genuine with an extremely small percentage of fraudulent ones. Designing an accurate and efficient fraud detection system that is low on false positives but detects fraudulent activity effectively is a significant challenge.
